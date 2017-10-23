@@ -2,19 +2,19 @@ Scrapy project as a chinese tutorial
 ====================================
 scrapy中文学习项目
 
-更多scrapy相关资料参考：<www.addbook.cn>
+更多scrapy相关资料参考：<www.qfboys.com>
 
 以抓取豆瓣图书中的编程图书为例：
 地址：<http://book.douban.com/tag/Programming>
 
 requirements::
 
-    scrapy >= 0.22
+    scrapy >= 0.24
     python == 2.7
 
 Install::
 
-    git clone https://github.com/addwork/scrapy_cn.git
+    git clone https://github.com/qfbot/scrapy_cn.git
 
 Usage::
 
